@@ -15,3 +15,13 @@ CSS: Estiliza a página com cores suaves, bordas arredondadas e sombras para dar
 
 JavaScript: A função carregar é executada quando a página é carregada. Ela calcula a hora atual e, com base nisso, altera a imagem e o fundo da página, além de exibir a mensagem correspondente ao período do dia.
 Esse projeto é útil para entender como interagir com o tempo usando JavaScript e como criar interfaces dinâmicas com base nas condições do ambiente (neste caso, o horário do dia).
+
+Como usar
+1. Baixe o repositório pelo próprio Github.
+2.Clone o repositório: git clone <url_do_repositorio>
+Abra o arquivo index.html no seu navegador.
+
+Tecnologias utilizadas
+HTML
+CSS
+JavaScript
