@@ -1,0 +1,33 @@
+/* Definindo o estilo global do corpo da página */
+body {
+    background: rgb(187, 187, 248); /* Cor de fundo suave */
+    font: normal 15pt Arial; /* Fonte utilizada na página */
+}
+
+/* Estilo para o cabeçalho */
+header {
+    color: rgba(158, 46, 46, 0.836); /* Cor do texto do cabeçalho */
+    text-align: center; /* Alinha o texto ao centro */
+}
+
+/* Estilo para a seção principal */
+section {
+    background: white; /* Cor de fundo da seção */
+    border-radius: 10px; /* Bordas arredondadas */
+    padding: 15px; /* Espaçamento interno */
+    width: 500px; /* Largura da seção */
+    margin: auto; /* Alinhamento centralizado */
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.377); /* Sombra da caixa */
+}
+
+/* Estilo para os elementos 'div' dentro da seção */
+div {
+    text-align: center; /* Alinha o conteúdo das divs ao centro */
+}
+
+/* Estilo para o rodapé */
+footer {
+    color: rgba(158, 46, 46, 0.836); /* Cor do texto */
+    text-align: center; /* Alinha o texto ao centro */
+    font-style: italic; /* Estilo de fonte em itálico */
+}
