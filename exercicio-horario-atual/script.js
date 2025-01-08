@@ -5,7 +5,7 @@ function carregar() {
     var data = new Date();  // Obtém a data e hora atual
     var hora = data.getHours();  // Extrai a hora atual
 
-    hora = 18;  // Para fins de teste, definimos a hora como 18 (noite)
+     // hora = 18 Para fins de teste, podemos definir a hora como 18 (noite)
 
     var turno = "";  // Variável que armazena o período do dia (madrugada, manhã, tarde, noite)
 
